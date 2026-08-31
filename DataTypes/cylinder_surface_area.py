@@ -14,6 +14,7 @@ height = int(input())
 
 PI = 3.142
 
+# formula
 area = 2*PI*radius* (radius + height)
 
 print(f"{area:.4f}")
